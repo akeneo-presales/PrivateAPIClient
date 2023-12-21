@@ -1,7 +1,8 @@
 # Akeneo PIM Private Api Client
 
 ## Description
-A little class that connects and retrieve datas from the private API endpoint in Akeneo PIM
+A little HTTP client that connects to Akeneo PIM using a user account and retrieves data from private API endpoints in Akeneo PIM, the same endpoints that are used by the UI, you can find them with web developer tools, by checking the network requests that are made by the PIM UI.
+
 
 ## Installation
 To install the project, follow these steps:
